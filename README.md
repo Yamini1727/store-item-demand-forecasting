@@ -2,7 +2,7 @@
 
 End-to-end demand forecasting project: raw, messy real-world retail data → cleaned time series → statistical forecasting models → interactive Tableau dashboard.
 
-## 📊 Live Interactive Dashboard
+## Dashboard Preview
 [![Dashboard Preview](dashboard_preview.png)](https://public.tableau.com/app/profile/yamini.d3675/viz/StoreItemDemandForecastingDashboard/Dashboard1)
 
 🔗 **[Click here to explore the interactive dashboard](https://public.tableau.com/app/profile/yamini.d3675/viz/StoreItemDemandForecastingDashboard/Dashboard1)**
